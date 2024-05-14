@@ -9,8 +9,7 @@
 
  - O comportamento dos métodos da classe EquipamentoSonoro deve ser o seguinte:
 
- ![equipamento sonoro](https://github.com/PamellaBairos/Equipamento/assets/166080257/cecd9bc6-f7d8-4f34-b71c-fe5956e843a3
-
+![equipamento sonoro](https://github.com/PamellaBairos/Equipamento/assets/166080257/cecd9bc6-f7d8-4f34-b71c-fe5956e843a3)
  
 
  
